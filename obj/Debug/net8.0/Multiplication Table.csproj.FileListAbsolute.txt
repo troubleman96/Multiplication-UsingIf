@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\bin\Debug\net8.0\Multiplication Table.exe
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\bin\Debug\net8.0\Multiplication Table.deps.json
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\bin\Debug\net8.0\Multiplication Table.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\bin\Debug\net8.0\Multiplication Table.dll
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\bin\Debug\net8.0\Multiplication Table.pdb
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\Multiplication Table.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\Multiplication Table.dll
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\refint\Multiplication Table.dll
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\Multiplication Table.pdb
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\Multiplication Table.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!%\c#\Multiplication Table\obj\Debug\net8.0\ref\Multiplication Table.dll
